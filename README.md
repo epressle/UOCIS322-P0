@@ -5,6 +5,7 @@ Uses 'credentials.ini' to print "Hello world". This file is not staged with this
 
 ## Contact Information
 
-Email [epressle@uoregon.edu](mailto:epressle@uoregon.edu) 
+Email: [epressle@uoregon.edu](mailto:epressle@uoregon.edu) 
+
 
 
